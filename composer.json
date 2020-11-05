@@ -13,6 +13,7 @@
         "drupal/bootstrap_barrio": "^5.1",
         "drupal/bootstrap_styles": "^1.0@beta",
         "drupal/captcha": "^1.1",
+        "drupal/chosen": "^3.0",
         "drupal/ckeditor_templates": "^1.2",
         "drupal/ckeditor_templates_ui": "^1.4",
         "drupal/cog": "^1.0.0",
