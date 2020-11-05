@@ -2,23 +2,6 @@
 
 A brief description of Drupal Thailand VM Project.
 
-## Using This Template
-
-Remove this section after initial setup!
-
-Search for and replace the following placeholders within this file:
-
-| Placeholder | Example |
-| --- | --- |
-| `#ACQUIA_CLOUD_URL` | https://cloud.acquia.com/app/develop/applications/12345678-1234-1234-12345678901234567 |
-| `#GIT_PRIMARY_DEV_BRANCH` | `master` or `develop` |
-| `#GITHUB_ORG` | The "org" in https://github.com/org/project |
-| `#GITHUB_PROJECT` | The "project" in https://github.com/org/project |
-| `#JIRA_URL` | https://org.atlassian.net/projects/PROJ |
-| `#LOCAL_DEV_SITE_ALIAS` | `@example.local` |
-| `#LOCAL_DEV_URL` | http://local.example.com/ |
-| `#TRAVIS_URL` | https://travis-ci.com/org/PROJ |
-
 # Getting Started
 
 This project is based on BLT, an open-source project template and tool that enables building, testing, and deploying Drupal installations following Acquia Professional Services best practices. While this is one of many methodologies, it is our recommended methodology. 
