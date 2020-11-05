@@ -46,6 +46,11 @@ modules:
       - dblog
       - devel
       - seckit
+      - admin_toolbar
+      - admin_toolbar_tools
+      - ctools
+      - pathauto
+      - token
       - views_ui
     uninstall:
       - shield
