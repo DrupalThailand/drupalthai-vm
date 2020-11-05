@@ -1,6 +1,6 @@
-# My Project
+# Drupal Thailand VM Project
 
-A brief description of My Project.
+A brief description of Drupal Thailand VM Project.
 
 ## Using This Template
 
