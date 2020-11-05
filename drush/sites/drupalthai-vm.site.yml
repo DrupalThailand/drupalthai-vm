@@ -1,0 +1,6 @@
+local:
+    root: /var/www/drupalthai-vm/docroot
+    uri: 'http://local.drupalthai-vm.com'
+    host: local.drupalthai-vm.com
+    user: vagrant
+    ssh: { options: '-o StrictHostKeyChecking=no -o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }

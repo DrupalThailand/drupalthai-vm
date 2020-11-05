@@ -12,10 +12,10 @@
 project:
   machine_name: drupalthai-vm
   # Used for enforcing correct git commit msg syntax.
-  prefix: BLT
-  human_name: 'BLTed 10'
+  prefix: DTVM
+  human_name: 'Drupal Thailand VM'
   profile:
-    name: lightning
+    name: standard
   # This will be used as the local uri for all developers.
   local:
     protocol: http
